@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-D9FsizFu0H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -24,8 +24,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/single-price-grid-component-6aY43tk5ps)
-- Live Site URL: [Live site URL here](https://nbuylding.github.io/Single-price-grid/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-D9FsizFu0H)
+- Live Site URL: [Live site URL here](https://nbuylding.github.io/Interactive-rating-component/)
 
 ## My process
 
